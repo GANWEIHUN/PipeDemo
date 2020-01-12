@@ -50,7 +50,10 @@ namespace Client
                         {
                             string text = streamReader.ReadLine();
                             _richTextBox.AppendText("\n" + text);
-                            if (string.IsNullOrEmpty(text)) { break;}
+                            if (string.IsNullOrEmpty(text))
+                            {
+                                break;
+                            }
                         }
                     }
                 }

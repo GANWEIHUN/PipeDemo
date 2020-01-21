@@ -1,0 +1,5 @@
+E:\study\code\PipeDemo\PipeDemo\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\study\code\PipeDemo\PipeDemo\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\study\code\PipeDemo\PipeDemo\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\study\code\PipeDemo\UnitTestProject1.dll
+E:\study\code\PipeDemo\UnitTestProject1.pdb
